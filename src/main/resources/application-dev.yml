@@ -1,0 +1,6 @@
+server:
+  port: 8092
+
+twilio:
+  accountSid: AC45fa3c44e5df41e0640e4f775106362d
+  authToken: 40fa1ee729a21f9b6025b720291973fb
