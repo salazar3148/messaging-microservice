@@ -3,5 +3,5 @@ server:
 
 twilio:
   accountSid: AC45fa3c44e5df41e0640e4f775106362d
-  authToken: a6bf96e05c3fe3699455305ce248fba3
+  authToken: a649a30fd56824bac540c637788032eb
   phoneNumber: \+14065014296
